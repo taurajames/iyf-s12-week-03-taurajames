@@ -27,3 +27,10 @@ I learned how to navigate folders, list files, create a file and open it in VS C
 ## 4. What I Learned
 
 I practised checking my repository status, staging files, committing changes and pushing them to GitHub. I also tested my PowerShell project setup script and confirmed that it creates a project folder with a README and a daily-challenges folder.
+
+## 5. Branching Practice
+
+- `git branch` - lists the local branches in the repository.
+- `git switch -c feature/terminal-log-improvements` - creates a new feature branch and switches to it.
+
+I learned how to create a separate branch so I can make changes without working directly on the main branch.
