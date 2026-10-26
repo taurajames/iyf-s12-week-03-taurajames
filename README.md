@@ -4,7 +4,7 @@ My Week 3 assignment for the IYF WECAN Academy Season 12 focuses on learning ter
 
 ## About the Project
 
-This project helps me practise command-line tools, Git workflows, and professional project management
+This project helps me practise Git branching, collaboration, command-line tools and resolving merge conflicts.
 
 ## What I Practised
 
