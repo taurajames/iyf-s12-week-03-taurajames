@@ -4,7 +4,7 @@ My Week 3 assignment for the IYF WECAN Academy Season 12 focuses on learning ter
 
 ## About the Project
 
-This project builds on my previous portfolio work and helps me develop practical skills for managing projects using the command line and Git.
+This project helps me practise command-line tools, Git workflows, and professional project management
 
 ## What I Practised
 
