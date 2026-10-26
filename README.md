@@ -1,53 +1,43 @@
-# IYF-S12-Week-02-TauraJames
+# IYF Season 12 - Week 3: Tools and Workflow
 
-My Week 2 CSS Mastery project for IYF WECAN Academy Season 12.
+My Week 3 assignment for the IYF WECAN Academy Season 12 focuses on learning terminal commands, Git and GitHub workflows, project setup and collaboration.
 
 ## About the Project
 
-This project builds on my Week 1 portfolio and focuses on improving my CSS skills.
+This project builds on my previous portfolio work and helps me develop practical skills for managing projects using the command line and Git.
 
-## What I Practiced
+## What I Practised
 
-- CSS box model: margin, border, padding and content
-- CSS variables for colors and typography
-- Flexbox for navigation
-- CSS Grid for project layouts
-- Responsive design for phones, tablets and desktops
-- Hover effects and keyboard focus
-- Accessible and consistent page styling
+- Using terminal commands to navigate folders and manage files.
+- Recording terminal commands and explaining what they do.
+- Using Git to stage, commit and push changes.
+- Connecting a local project to a GitHub repository.
+- Organising project files and daily challenges.
+- Learning how branches, merges, pull requests and merge conflicts work.
 
 ## Lessons Learned
 
-- I learned how the CSS box model uses content, padding, borders and margins.
-- I practised using CSS variables to keep colors and typography consistent.
-- I learned how Flexbox helps arrange navigation links.
-- I practised CSS Grid to create responsive project layouts.
-- I learned to use media queries for different screen sizes.
-- I improved accessibility by adding hover effects and keyboard focus styles.
+I learned how to use terminal commands, track changes with Git and upload my work to GitHub. I also learned why checking the current folder and repository connection is important before pushing changes.
 
-## Technologies Used
+## Project Files
 
-- HTML
-- CSS3
-- Visual Studio Code
-- Git and GitHub
+- `terminal-log.md` - terminal commands and explanations.
+- `new-project.ps1` or `new-project.sh` - project setup script.
+- `.gitignore` - files and folders Git should ignore.
+- `daily-challenges/` - daily practice tasks.
 
-## Project Pages
+## Collaboration
 
-- Home: `index.html`
-- About: `about.html`
-- Projects: `projects.html`
-- Contact: `contact.html`
-- Box Model Practice: `box-model-practice.html`
+- **Partner:** To be added after verification.
+- **Pair repository:** To be added after verification.
+- **My pull request:** To be added after verification.
+- **Pull request I reviewed:** To be added after verification.
+- **Merge-conflict pull request:** To be added after verification.
+
+If my partner did not participate, I will state that here and document my own branch and pull request, as required by the assignment.
 
 ## Author
 
 Taura James
 
-## Academy
-
 IYF WECAN Academy - Season 12
-
-## Live Demo
-
-[View my live Week 2 portfolio](https://taurajames.github.io/iyf-s12-week-02-taurajames/)
