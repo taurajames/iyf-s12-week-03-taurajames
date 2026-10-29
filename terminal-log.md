@@ -34,3 +34,16 @@ I practised checking my repository status, staging files, committing changes and
 - `git switch -c feature/terminal-log-improvements` - creates a new feature branch and switches to it.
 
 I learned how to create a separate branch so I can make changes without working directly on the main branch.
+
+## 6. Merging and Merge Conflict Practice
+
+- `git status` - checks the current branch and whether there are changes.
+- `git branch` - lists the local branches.
+- `git switch main` - switches to the main branch.
+- `git merge <branch-name>` - merges a feature branch into the current branch.
+- `git add README.md` - stages the resolved README file.
+- `git commit -m "Resolve README merge conflict"` - saves the conflict resolution in Git history.
+- `git branch -d <branch-name>` - deletes a branch after it has been merged.
+- `git push origin main` - pushes committed changes to GitHub.
+
+I learned how to merge branches, resolve a README merge conflict, save the resolution, and delete merged branches.
