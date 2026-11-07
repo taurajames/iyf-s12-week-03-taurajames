@@ -19,6 +19,15 @@ This project helps me practise Git branching, collaboration, command-line tools 
 
 I learned how to use terminal commands, track changes with Git and upload my work to GitHub. I also learned why checking the current folder and repository connection is important before pushing changes.
 
+## Challenges Faced
+
+- Understanding terminal commands and navigating project directories correctly.
+- Learning how to manage branches and merge changes without losing work.
+- Resolving merge conflicts when two contributors edited the same README line.
+- Remembering to check Git status before staging, committing and pushing changes.
+
+Working through these challenges helped me become more confident using the terminal and Git for project collaboration.
+
 ## Project Files
 
 - `terminal-log.md` - terminal commands and explanations.
@@ -28,13 +37,12 @@ I learned how to use terminal commands, track changes with Git and upload my wor
 
 ## Collaboration
 
-- **Partner:** To be added after verification.
-- **Pair repository:** To be added after verification.
-- **My pull request:** To be added after verification.
-- **Pull request I reviewed:** To be added after verification.
-- **Merge-conflict pull request:** To be added after verification.
+- **Partner:** [James Mwangi](https://github.com/jamesmwangi96ismyhandle-source)
+- **Pair repository:** [iyf-s12-week-03-pair-taurajames](https://github.com/taurajames/iyf-s12-week-03-pair-taurajames)
+- **My pull request:** [PR #1 - Taura's pair collaboration contribution](https://github.com/taurajames/iyf-s12-week-03-pair-taurajames/pull/1)
+- **Pull request I reviewed:** [PR #2 - James's pair collaboration contribution](https://github.com/taurajames/iyf-s12-week-03-pair-taurajames/pull/2)
+- **Merge-conflict pull request:** [PR #3 - Resolve README merge conflict](https://github.com/taurajames/iyf-s12-week-03-pair-taurajames/pull/3)
 
-If my partner did not participate, I will state that here and document my own branch and pull request, as required by the assignment.
 
 ## Author
 
