@@ -47,3 +47,29 @@ I learned how to create a separate branch so I can make changes without working 
 - `git push origin main` - pushes committed changes to GitHub.
 
 I learned how to merge branches, resolve a README merge conflict, save the resolution, and delete merged branches.
+
+## 7. Daily Challenges: Days 3-5
+
+### Day 3: Project Boilerplate Script
+
+- `.\new-project.ps1 -ProjectName "week3-test-project"` - runs the PowerShell script to create a project folder.
+- `Get-ChildItem .\week3-test-project -Recurse` - checks the files and folders created by the script.
+
+### Day 4: Searching File Contents
+
+- `Select-String -Path ".\daily-challenges\day-3.html" -Pattern "Project"` - searches for lines containing the word Project.
+- `Select-String -Path ".\daily-challenges\day-3.html" -Pattern "PowerShell"` - searches for lines containing the word PowerShell.
+
+### Day 5: Creating Aliases
+
+- `Set-Alias ll Get-ChildItem` - creates a shortcut for listing files and folders.
+- `Set-Alias c code` - creates a shortcut for opening VS Code.
+- `Set-Alias grep Select-String` - creates a shortcut for searching file contents.
+- `ll` - tests the file-listing alias.
+- `c .` - tests the VS Code alias by opening the current folder.
+- `grep -Path ".\daily-challenges\day-3.html" -Pattern "Project"` - tests the search alias.
+- `Get-Alias ll,c,grep` - verifies the aliases and their corresponding commands.
+
+### What I Learned
+
+I learned how to automate project creation with PowerShell, search file contents using Select-String, and create aliases to make frequently used commands easier to access.

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 5 - Command Aliases</title>
+</head>
+<body>
+    <h1>Day 5: Create Aliases for Common Commands</h1>
+
+    <h2>Objective</h2>
+    <p>Practise creating aliases to make common terminal commands shorter and easier to use.</p>
+
+    <h2>Aliases Created</h2>
+    <ul>
+        <li><code>ll</code> for <code>Get-ChildItem</code>, to list files and folders.</li>
+        <li><code>c</code> for <code>code</code>, to open VS Code.</li>
+        <li><code>grep</code> for <code>Select-String</code>, to search file contents.</li>
+    </ul>
+
+    <h2>Commands Used</h2>
+    <pre><code>Set-Alias ll Get-ChildItem
+Set-Alias c code
+Set-Alias grep Select-String
+
+ll
+c .
+grep -Path ".\daily-challenges\day-3.html" -Pattern "Project"
+
+Get-Alias ll,c,grep</code></pre>
+
+    <h2>Verification</h2>
+    <p>I tested the aliases and confirmed that all three pointed to their intended commands.</p>
+
+    <h2>What I Learned</h2>
+    <p>I learned how to create and use aliases in PowerShell. Aliases provide shorter names for commands, making terminal work quicker and easier.</p>
+</body>
+</html>
